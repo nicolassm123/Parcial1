@@ -50,7 +50,7 @@ public class Main {
             }
             
           
-            System.out.println("\nInformación de los libros:");
+            System.out.println("Información de los libros:");
             System.out.println(libro1);
             System.out.println(libro2);
         }
